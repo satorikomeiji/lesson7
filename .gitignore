@@ -1,6 +1,7 @@
 # built application files
-*.ap_
-
+#*.ap_
+ant.properties
+build.xml
 # files for the dex VM
 *.dex
 
